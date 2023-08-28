@@ -1,0 +1,7 @@
+models
+venv
+sources
+motracker/motracker.egg-info
+*.wav
+posedetector/posedetector.egg-info
+posesonifier/posesonifier.egg-info
